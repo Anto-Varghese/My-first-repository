@@ -1,3 +1,3 @@
 # My-first-repository
 My first repository
-My first comment
+My first commit
